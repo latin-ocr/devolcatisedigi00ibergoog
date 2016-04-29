@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devolcatisedigi00ibergoog_0007.png"; bbox 0 0 2946 4761; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 843 1210 2324 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 843 1176 2324 1395">
+     <span class='ocr_line' id='line_1_1' title="bbox 843 1210 2324 1388; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 843 1214 1555 1386; x_wconf 78' lang='lat' dir='ltr'>PARENTIBUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1683 1210 2324 1388; x_wconf 78' lang='lat' dir='ltr'>CARISSIMIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 549 1591 2623 2048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 549 1591 2623 2048">
+     <span class='ocr_line' id='line_1_2' title="bbox 549 1591 2623 1716; baseline 0.003 -6"><span class='ocrx_word' id='word_1_3' title='bbox 549 1591 766 1712; x_wconf 86' lang='lat' dir='ltr'>HAS</span> <span class='ocrx_word' id='word_1_4' title='bbox 844 1595 1478 1714; x_wconf 83' lang='lat' dir='ltr'>STUDIORUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1553 1596 1998 1715; x_wconf 83' lang='lat' dir='ltr'>SUORUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 2071 1595 2623 1716; x_wconf 80' lang='lat' dir='ltr'><strong>PRIMITIAS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 966 1909 2214 2048; baseline 0.002 -20"><span class='ocrx_word' id='word_1_7' title='bbox 966 1909 1147 2029; x_wconf 88' lang='grc' dir='ltr'>ΡΙΟ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1216 1910 1803 2048; x_wconf 85' lang='lat' dir='ltr'><strong>GRATOQUE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1863 1912 2214 2031; x_wconf 87' lang='lat' dir='ltr'>ANIMO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
